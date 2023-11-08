@@ -1,7 +1,11 @@
 @import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
-@import url('https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:i|Playfair+Display');
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:i|Playfair+Display|Merriweather');
 
 html, body {
+    font-family: 'Merriweather';
+}
+
+h1, h2, h3 {
     font-family: 'Playfair Display';
 }
 
